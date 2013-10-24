@@ -1,0 +1,326 @@
+# depslib dependency file v1.0
+1341429047 source:d:\git repos\game_stock\tetris\button.cpp
+	"classic_function.hpp"
+	"Button.hpp"
+
+1340287941 d:\git repos\game_stock\tetris\classic_function.hpp
+	"SDL/SDL.h"
+	<string>
+
+1341065781 d:\git repos\game_stock\tetris\button.hpp
+	"SDL/SDL.h"
+	<string>
+	"Classe_BitmapFont.h"
+
+1341421781 d:\git repos\game_stock\tetris\classe_bitmapfont.h
+	"classic_function.hpp"
+	"Classe_Timer.h"
+
+1339934717 d:\git repos\game_stock\tetris\classe_timer.h
+
+1341430694 source:d:\git repos\game_stock\tetris\classe_bitmapfont.cpp
+	"Classe_BitmapFont.h"
+	<sstream>
+	<string>
+	"SDL.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114587 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_platform.h
+
+1326114594 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 d:\dropbox\sdl projects\sdl-1.2.15\include\begin_code.h
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\close_code.h
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_keysym.h
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382560611 source:d:\git repos\game_stock\tetris\classe_piece.cpp
+	"Classe_Piece.h"
+	"classic_function.hpp"
+
+1344722884 d:\git repos\game_stock\tetris\classe_piece.h
+	"Constantes.h"
+	"global.hpp"
+
+1344722851 d:\git repos\game_stock\tetris\constantes.h
+	"sdl/sdl.h"
+	<stdlib.h>
+	<stdio.h>
+
+1344800734 d:\git repos\game_stock\tetris\global.hpp
+
+1320344041 source:d:\git repos\game_stock\tetris\classe_timer.cpp
+	<SDL.h>
+	"Classe_Timer.h"
+
+1341428252 source:d:\git repos\game_stock\tetris\hud_game.cpp
+	"HUD_Game.hpp"
+	"classic_function.hpp"
+	"Classe_Piece.h"
+
+1344722601 d:\git repos\game_stock\tetris\hud_game.hpp
+	"sdl.h"
+	"classic_function.hpp"
+	"Classe_BitmapFont.h"
+	<sstream>
+
+1341069036 source:d:\git repos\game_stock\tetris\menu_option.cpp
+	"Menu_Option.hpp"
+	"Constantes.h"
+
+1344722943 d:\git repos\game_stock\tetris\menu_option.hpp
+	"SDL/SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"global.hpp"
+
+1325814033 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325814540 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_types.h
+	"SDL_stdinc.h"
+
+1341072057 source:d:\git repos\game_stock\tetris\classic_function.cpp
+	"classic_function.hpp"
+	<time.h>
+	<cstdlib>
+	"SDL_image.h"
+
+1382561107 source:d:\git repos\game_stock\tetris\game.cpp
+	"game.hpp"
+
+1344800734 d:\git repos\game_stock\tetris\game.hpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<string>
+	<sstream>
+	<vector>
+	"constantes.h"
+	"classic_function.hpp"
+	"Classe_Timer.h"
+	"Classe_Piece.h"
+	"Classe_BitmapFont.h"
+	"HUD_Game.hpp"
+
+1382560190 source:d:\git repos\game_stock\tetris\global.cpp
+	"Constantes.h"
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+
+1344722483 source:d:\git repos\game_stock\tetris\main.cpp
+	"Constantes.h"
+	"game.hpp"
+	"Menu.hpp"
+	"Menu_Option.hpp"
+
+1344722916 d:\git repos\game_stock\tetris\menu.hpp
+	"SDL/SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"classic_function.hpp"
+	"Constantes.h"
+	"global.hpp"
+	"Button.hpp"
+
+1382535049 source:d:\git repos\game_stock\tetris\menu.cpp
+	"Menu.hpp"
+	"Menu_Option.hpp"
+	"classic_function.hpp"
+	<SDL/SDL_getenv.h>
+	<SDL_mixer.h>
+

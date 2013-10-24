@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Tetris" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Tetris" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="D:\Dropbox\SDL Projects\SDL-1.2.15\include" />
+				</Compiler>
+				<Linker>
+					<Add option="-lSDL_mixer" />
+					<Add option="-lSDL_image" />
+					<Add library="mingw32" />
+					<Add library="SDLmain" />
+					<Add library="SDL.dll" />
+					<Add library="user32" />
+					<Add library="gdi32" />
+					<Add library="winmm" />
+					<Add library="dxguid" />
+					<Add directory="D:\Dropbox\SDL Projects\SDL-1.2.15\lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Tetris" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="D:\Dropbox\SDL Projects\SDL-1.2.15\include" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL.dll" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add directory="D:\Dropbox\SDL Projects\SDL-1.2.15\lib" />
+		</Linker>
+		<Unit filename="Button.cpp" />
+		<Unit filename="Button.hpp" />
+		<Unit filename="Classe_BitmapFont.cpp" />
+		<Unit filename="Classe_BitmapFont.h" />
+		<Unit filename="Classe_Piece.cpp" />
+		<Unit filename="Classe_Piece.h" />
+		<Unit filename="Classe_Timer.h" />
+		<Unit filename="Classe_timer.cpp" />
+		<Unit filename="Constantes.h" />
+		<Unit filename="HUD_Game.cpp" />
+		<Unit filename="HUD_Game.hpp" />
+		<Unit filename="Menu.cpp" />
+		<Unit filename="Menu.hpp" />
+		<Unit filename="Menu_Option.cpp" />
+		<Unit filename="Menu_Option.hpp" />
+		<Unit filename="classic_function.cpp" />
+		<Unit filename="classic_function.hpp" />
+		<Unit filename="config.hpp" />
+		<Unit filename="game.cpp" />
+		<Unit filename="game.hpp" />
+		<Unit filename="global.cpp" />
+		<Unit filename="global.hpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

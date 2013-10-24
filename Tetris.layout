@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Classe_Piece.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="178" topLine="37" />
+	</File>
+	<File name="Constantes.h" open="1" top="0" tabpos="7">
+		<Cursor position="0" topLine="1" />
+	</File>
+	<File name="HUD_Game.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="1165" topLine="22" />
+	</File>
+	<File name="Menu.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="3946" topLine="0" />
+	</File>
+	<File name="Menu_Option.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="classic_function.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="748" topLine="33" />
+	</File>
+	<File name="classic_function.hpp" open="1" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="config.hpp" open="1" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="game.cpp" open="1" top="1" tabpos="6">
+		<Cursor position="5604" topLine="224" />
+	</File>
+	<File name="global.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="141" topLine="0" />
+	</File>
+	<File name="global.hpp" open="1" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="382" topLine="5" />
+	</File>
+</CodeBlocks_layout_file>
